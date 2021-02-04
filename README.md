@@ -1,2 +1,2 @@
 # sitesmap
-A series of templated hmtl sites
+A repository of landing page templates
